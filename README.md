@@ -10,7 +10,7 @@ the guest paperwork through a modular compliance engine — Austria and Italy li
 The demo in this repository is the actual product interface running on sample data —
 three apartments, every screen clickable, no account needed.
 
-**→ Live URL: _deploying — added on first Vercel build_**
+**→ [guestbook-public.vercel.app](https://guestbook-public.vercel.app)**
 
 Or run it locally: open `index.html` in any browser. No build step, no dependencies.
 
